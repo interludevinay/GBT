@@ -1,4 +1,3 @@
-pip install langchain
 
 %%writefile app.py
 
